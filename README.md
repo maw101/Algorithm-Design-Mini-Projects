@@ -1,1 +1,1 @@
-# Algorithms-I-Tasks
+# Algorithm-Design-Mini-Projects
