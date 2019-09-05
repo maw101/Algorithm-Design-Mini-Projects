@@ -97,7 +97,7 @@ public class Solver {
 
     public static void main(String[] args) {
         // create initial board from file
-        In in = new In("eight_puzzle/p1.txt");
+        In in = new In("eight_puzzle/puzzle_text_files/p2.txt");
         int n = in.readInt();
         int[][] tiles = new int[n][n];
         for (int i = 0; i < n; i++)
